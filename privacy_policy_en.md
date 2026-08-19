@@ -23,4 +23,4 @@ When downloading or purchasing the App, Apple may collect data according to thei
 If we update this Privacy Policy in the future, the updated version will be posted at this URL with a revised "Last Updated" date.
 
 ## 6. Contact Us
-If you have any questions or feedback regarding this Privacy Policy, you can reach out via GitHub Issues or contact us directly via email (gergely.gulyas.alt@outlook.com).
+If you have any questions or feedback regarding this Privacy Policy, you can reach out via GitHub Issues or contact us directly via email (gulyas.gergely.alt@outlook.com).
