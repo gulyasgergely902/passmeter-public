@@ -9,8 +9,11 @@ PassMeter is the ultimate tool to track these and many more. Easily manage all y
 ## Support & Feedback
 
 You can use this repository to:
+
 * **Report a Bug:** Open a new issue with details about the problem.
 * **Request a Feature:** Have an idea to make PassMeter better? Submit a feature request via Issues.
+
+To open a new issue, navigate to the **Issues** tab and select **New issue**.
 
 ### Alternative Contact
 If you don't have a GitHub account, you can reach out directly via email at:
